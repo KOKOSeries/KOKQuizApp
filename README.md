@@ -1,2 +1,2 @@
 # KOKQuizApp
-竞彩App
+竞猜App
